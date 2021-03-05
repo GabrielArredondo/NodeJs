@@ -1,0 +1,42 @@
+form{
+    margin-top: 5rem;
+    border: 1px solid #d2d2d2;
+    padding: 1rem;
+    box-shadow: 1px 1px 1px 1px rgb(0 0 20 / 20%);
+    color: rgb(0, 204, 255);
+    font-size: 1.2em;
+}
+h1{
+    margin-top: -3rem;
+    text-align: center;
+    background: #212529;
+    box-shadow: 2px 2px 2px 2px #2a638d;
+    color: white;
+}
+button{
+    
+    width: 100%;
+    background: #212529;
+
+}
+
+.success, .error {
+    color: white;
+    padding: 10px;
+    margin: 5px 0 15px 0;
+  }
+  
+  .success {
+    background: green;
+  }
+  
+  .error {
+    background: red;
+  }
+  
+  body {
+    background: #ECE9E6;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #FFFFFF, #ECE9E6);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #FFFFFF, #ECE9E6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+  }

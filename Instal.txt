@@ -1,0 +1,13 @@
+Para el frontend
+npm i webpack webpack-cli html-webpack-plugin css-loader
+npm i style-loader mini-css-extract-plugin
+npm i webpack-dev-server timeago.js -D  
+
+/***Ejecutar build solo cuando se termine el desarrollo del frontedn****/
+npm rum serve
+/***Ejecutar build solo cuando este en desarrollo del frontedn****/
+npm rum build
+/***Ejecutar start cuando se termine el desarrollo del backend**/
+npm rum start
+/***Ejecutar start cuando este en desarrollo del backend**/
+npm rum dev
